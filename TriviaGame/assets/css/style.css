@@ -1,0 +1,44 @@
+body {
+    background: url('https://wallpapercave.com/wp/akAqvhb.jpg') no-repeat fixed;
+    background-size: cover;
+    font-family: Allerta Stencil;
+    color: royalblue;
+  
+  }
+  
+  h5 {
+    font-size: 20px;
+    color: royalblue;
+  }
+  
+  button.start {
+    background: magenta;
+    color: white;
+  }
+  
+  button.option {
+    margin: 10px; 
+    background:black;
+    color: royalblue;
+  }
+  
+  .container .jumbotron {
+    background:purple;
+    margin-top: 50px;
+    border-radius: 50px;
+  }
+  
+  .jumbotron h1 {
+    font-family: Allerta Stencil;
+    font-size: 70px;
+    line-height: 70px;
+    color: royalblue;
+    border-radius: 50px;
+  }
+  
+  .gameBody {
+    color: royalblue;
+    font-size: 24px;
+    margin-top: 40px;
+  }
+  
